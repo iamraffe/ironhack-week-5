@@ -1,4 +1,4 @@
-require_relative "../string_calculator.rb"
+require_relative "../lib/string_calculator.rb"
 require "spec_helper"
 
 describe "StringCalculator" do 
